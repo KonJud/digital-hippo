@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 'user client'
 
 import { ShoppingCart } from "lucide-react"
@@ -57,5 +56,4 @@ const Cart = () => {
 }
 
 export default Cart
-=======
->>>>>>> 4973c3f9799e7ed39bd7fa32cf741c81bbb9df64
+
