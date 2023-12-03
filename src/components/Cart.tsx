@@ -6,7 +6,7 @@ import { Separator } from "./ui/separator"
 
 const Cart = () => {
 
-    const itemCount = 1
+    const itemCount = 0
 
     return(
         <>
