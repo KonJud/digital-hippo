@@ -3,3 +3,10 @@ npx shadcn-ui@latest add button
 npm install lucide-react
 npx shadcn-ui@latest add sheet
 npx shadcn-ui@latest add separator
+npm install express
+npm install -D @types/express
+npm install dotenv
+npm install payload
+npm install cross-env
+npm i nodemon
+npm install @payloadcms/richtext-slate @payloadcms/bundler-webpack
