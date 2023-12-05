@@ -8,5 +8,7 @@ npm install -D @types/express
 npm install dotenv
 npm install payload
 npm install cross-env
-npm i nodemon
-npm install @payloadcms/richtext-slate @payloadcms/bundler-webpack
+npm i -D nodemon
+npm install @payloadcms/richtext-slate @payloadcms/bundler-webpack @payloadcms/db-mongodb
+
+2H33min
