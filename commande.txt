@@ -10,5 +10,8 @@ npm install payload
 npm install cross-env
 npm i -D nodemon
 npm install @payloadcms/richtext-slate @payloadcms/bundler-webpack @payloadcms/db-mongodb
+npx shadcn-ui@latest add input
+npx shadcn-ui@latest add label
+npm install react-hook-form @hookform/resolvers zod sonner
 
 2H33min
