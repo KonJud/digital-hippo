@@ -17,4 +17,12 @@ npm install react-hook-form @hookform/resolvers zod sonner
 ## tRPC : trpc.io ##
 npm install @trpc/client @trpc/next @trpc/react-query @trpc/server @tanstack/react-query
 
-2H33min
+
+
+
+DocumentationAFaire: {
+    TRPC
+    payload
+}
+
+3H48min 22s
